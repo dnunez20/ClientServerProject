@@ -1,0 +1,3 @@
+/user/d/dnunez1/CLionProjects/CNProjectsOctober/cmake-build-debug/CMakeFiles/edit_cache.dir
+/user/d/dnunez1/CLionProjects/CNProjectsOctober/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/user/d/dnunez1/CLionProjects/CNProjectsOctober/cmake-build-debug/CMakeFiles/CNProjectsOctober.dir
